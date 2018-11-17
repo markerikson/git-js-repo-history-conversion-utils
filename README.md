@@ -1,6 +1,6 @@
 # Git and JS History Conversion Tools
 
-These tools accompany my blog post [Rewriting Your Git History and JS Source for Fun and Profit](https://blog.isquaredsoftware.com/2018/11/2018-11/git-js-history-rewriting).
+These tools accompany my blog post [Rewriting Your Git History and JS Source for Fun and Profit](https://blog.isquaredsoftware.com/2018/11/git-js-history-rewriting/).
 
 They are a slightly sanitized version of the scripts that I used to rewrite our Git repository, by converting all AMD/ES5 code to ES6 module syntax, and auto-formatting all JS and Python source throughout the entire history of the repository.
 
