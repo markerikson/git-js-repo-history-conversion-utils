@@ -8,8 +8,8 @@ If you actually wanted to use this:
 
 **Setup**
 1. Tweak paths as needed:
-  1. Edit `repoFilterUtils.py` to define the source repo and output repo paths
-  2. Edit `js-codemods/transformJSFile.js` and fix the path to a temp folder for writing errors to disk
+    1. Edit `repoFilterUtils.py` to define the source repo and output repo paths
+    2. Edit `js-codemods/transformJSFile.js` and fix the path to a temp folder for writing errors to disk
 2. Use `yarn` to install the JS dependencies under `js-codemods/`
 3. Install Black and Requests into your system's Python3 location
 
